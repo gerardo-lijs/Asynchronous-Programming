@@ -10,4 +10,4 @@ I usually prefer reading blogs or books rather than watching videos but in this 
 #### Books
 
 #### Samples
-I'm currently preparing some small samples for a Meetup and will later on add them to this repository
+* I'm currently preparing some small samples for a Meetup and will later on add them to this repository
