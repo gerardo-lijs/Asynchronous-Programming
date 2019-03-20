@@ -1,16 +1,4 @@
 ﻿# Asynchronous Programming in .NET
-Samples and resource links I've collected while doing asynchronous programming in .NET
+Curated resource links I've collected on asynchronous programming in .NET. Some of them were very useful to me during my learning path and hopefully they will help other developers. Suggestions welcome.
 
-* item 1
-* item 2
-* item 3
-
-
-```csharp
-public void
-```
-
-
-> Notes
-
-1
+## Videos
