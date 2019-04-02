@@ -29,7 +29,7 @@ Chapters 5 and 6 on asynchronous programming are very well explained and worth r
 * I'm currently preparing some small samples about practical uses of async/await in Desktop and Web Applications for a Meetup and will, later on, add them to this repository
 
 #### Extras
-* [Why your ASP.NET Core application won't scale (Feb 2019)](https://www.youtube.com/watch?v=-cJjnVTJ5og)  
+* [Why your ASP.NET Core application won't scale (Feb 2019)](https://www.youtube.com/watch?v=J-xqz_ZM9Wg)  
 David Fowler and Damian Edwards demonstrate the importance of correctly using async/await in ASP.NET Core
 * [The promise of an async future awaits by Bill Wagner (Feb 2019)](https://www.youtube.com/watch?v=ghDS4_NFbcQ)  
 Nice talk given in NDC London
