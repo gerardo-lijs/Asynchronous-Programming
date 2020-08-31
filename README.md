@@ -19,7 +19,7 @@ Stephen Cleary is an expert in asynchronous programming since 2012. He has writt
 A detailed post explaining some specific cases where you can use Task without await. It doesn't really make a big difference but if you are able to understand the discussion it's probably a sign that you're on the right track with async!
 
 * [Producer/consumer pipelines with System.Threading.Channels by Maarten Balliauw](https://blog.maartenballiauw.be/post/2020/08/26/producer-consumer-pipelines-with-system-threading-channels.html)  
-A nice post with a simple sample code that goes from async to parallel async to pipelines. Explaining the pros of why that code evolution.
+A nice post with a simple sample code that goes from async to parallel async to pipelines. Explaining the pros of that code evolution. It also includes a list of great links to get started with Pipelines.
 
 #### Books
 * [C# 7.0 in a Nutshell by Joseph and Ben Albahari](http://www.albahari.com/nutshell/)  
