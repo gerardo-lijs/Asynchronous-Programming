@@ -21,6 +21,9 @@ A detailed post explaining some specific cases where you can use Task without aw
 * [Producer/consumer pipelines with System.Threading.Channels by Maarten Balliauw](https://blog.maartenballiauw.be/post/2020/08/26/producer-consumer-pipelines-with-system-threading-channels.html)  
 A nice post with a simple sample code that goes from async to parallel async to pipelines. Explaining the pros of that code evolution. It also includes a list of great links to get started with Pipelines.
 
+* [How Async/Await Really Works in C# by Stephen Toub](https://devblogs.microsoft.com/dotnet/how-async-await-really-works)  
+Interesting blog post published March 16th, 2023
+
 #### Books
 * [C# 7.0 in a Nutshell by Joseph and Ben Albahari](http://www.albahari.com/nutshell/)  
 Chapter 14 - Concurrency and Asynchrony provides in depth knowledge of Threading/Tasks and Obsolete Patterns like APM, EAP, and BackgroundWorker
