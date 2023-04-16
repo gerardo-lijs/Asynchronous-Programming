@@ -1,4 +1,4 @@
-﻿# Asynchronous Programming in .NET
+## Asynchronous Programming in .NET
 Curated resource links I've collected while doing asynchronous programming in .NET. Some of them were very useful to me during my learning path and hopefully, they will help other software developers. Suggestions are welcome.
 
 #### Videos
@@ -23,6 +23,8 @@ A nice post with a simple sample code that goes from async to parallel async to 
 
 * [How Async/Await Really Works in C# by Stephen Toub](https://devblogs.microsoft.com/dotnet/how-async-await-really-works)  
 Interesting blog post published March 16th, 2023
+
+* [5 useful extensions for Task\<T\> by Steven Giesel](https://steven-giesel.com/blogPost/d38e70b4-6f36-41ff-8011-b0b0d1f54f6e)
 
 #### Books
 * [C# 7.0 in a Nutshell by Joseph and Ben Albahari](http://www.albahari.com/nutshell/)  
